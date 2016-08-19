@@ -1,0 +1,15 @@
+C:\Users\WDY\Documents\Visual Studio 2013\Projects\browser\ParentApp\ParentApp\bin\Debug\ParentApp.exe.config
+C:\Users\WDY\Documents\Visual Studio 2013\Projects\browser\ParentApp\ParentApp\obj\Debug\MainWindow.baml
+C:\Users\WDY\Documents\Visual Studio 2013\Projects\browser\ParentApp\ParentApp\obj\Debug\MainWindow.g.cs
+C:\Users\WDY\Documents\Visual Studio 2013\Projects\browser\ParentApp\ParentApp\obj\Debug\App.g.cs
+C:\Users\WDY\Documents\Visual Studio 2013\Projects\browser\ParentApp\ParentApp\obj\Debug\ParentApp_MarkupCompile.cache
+C:\Users\WDY\Documents\Visual Studio 2013\Projects\browser\ParentApp\ParentApp\obj\Debug\ParentApp.g.resources
+C:\Users\WDY\Documents\Visual Studio 2013\Projects\browser\ParentApp\ParentApp\obj\Debug\ParentApp.Properties.Resources.resources
+C:\Users\WDY\Documents\Visual Studio 2013\Projects\browser\ParentApp\ParentApp\obj\Debug\ParentApp.csproj.GenerateResource.Cache
+C:\Users\WDY\Documents\Visual Studio 2013\Projects\browser\ParentApp\ParentApp\bin\Debug\ParentApp.exe
+C:\Users\WDY\Documents\Visual Studio 2013\Projects\browser\ParentApp\ParentApp\bin\Debug\ParentApp.pdb
+C:\Users\WDY\Documents\Visual Studio 2013\Projects\browser\ParentApp\ParentApp\obj\Debug\ParentApp.exe
+C:\Users\WDY\Documents\Visual Studio 2013\Projects\browser\ParentApp\ParentApp\obj\Debug\ParentApp.pdb
+C:\Users\WDY\Documents\Visual Studio 2013\Projects\browser\ParentApp\ParentApp\obj\Debug\ParentApp.csprojResolveAssemblyReference.cache
+C:\Users\WDY\Documents\Visual Studio 2013\Projects\browser\ParentApp\ParentApp\bin\Debug\ChildApp.exe
+C:\Users\WDY\Documents\Visual Studio 2013\Projects\browser\ParentApp\ParentApp\bin\Debug\ChildApp.pdb

@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ParentApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="childAppPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">..\\..\\..\\childApp\\childApp\\bin\\Debug\\ChildApp.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

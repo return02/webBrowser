@@ -1,0 +1,16 @@
+﻿<Window x:Class="ParentApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="100" Width="250"
+        Topmost="True">
+    <Grid>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Height="20" Width="60" Margin="0,0,5,0" Click="onLaunchClicked">Launch</Button>
+            <Button Height="20" Width="60" Margin="5,0,5,0" Click="onHideClicked">Close</Button>
+            <StackPanel Orientation="Vertical" VerticalAlignment="Center">
+                <RadioButton Name="OnRadio" GroupName="zOrder" Content="On" IsChecked="False" IsEnabled="False" Click="onOnClicked" />
+                <RadioButton Name="OffRadio" GroupName="zOrder" Content="Off" IsChecked="True" IsEnabled="False" Click="onOffClicked"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

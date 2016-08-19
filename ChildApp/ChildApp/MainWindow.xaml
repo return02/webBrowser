@@ -1,0 +1,35 @@
+﻿<Window x:Class="ChildApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525"
+        WindowStyle="None"
+        Left="100"
+        Top="100"
+        WindowStartupLocation="Manual"
+        >
+    <!--WebBrowser Name="WebContentBrowser"></-->
+    <Window.CommandBindings>
+        <CommandBinding Command="NavigationCommands.GoToPage" CanExecute="GoToPage_CanExecute" Executed="GoToPage_Executed"/>
+    </Window.CommandBindings>
+
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <TextBox Width="Auto" Grid.Column="0" Name="WebUrl" KeyUp="onWebUrlKeyUp"/>
+                <Button Width="60" HorizontalAlignment="Left" Grid.Column="1" Command="NavigationCommands.GoToPage">
+                    To
+                </Button>
+            </Grid>
+            <WebBrowser Name="WebContentBrowser" Grid.Row="1" Navigating="WebUrlDisplay"></WebBrowser>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,5 @@
+C:\Users\WDY\Documents\Visual Studio 2013\Projects\browser\ChildApp\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\WDY\Documents\Visual Studio 2013\Projects\browser\ChildApp\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\WDY\Documents\Visual Studio 2013\Projects\browser\ChildApp\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\WDY\Documents\Visual Studio 2013\Projects\browser\ChildApp\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\WDY\Documents\Visual Studio 2013\Projects\browser\ChildApp\Exceptions\obj\Debug\Exceptions.pdb
